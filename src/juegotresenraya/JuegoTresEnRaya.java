@@ -18,8 +18,8 @@ public class JuegoTresEnRaya {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        {
-            system.out.prinln("Hola todos!") 
+        //{
+            //system.out.prinln("Hola todos!") 
     }
     
 }
