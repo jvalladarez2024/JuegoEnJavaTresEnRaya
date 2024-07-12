@@ -4,6 +4,8 @@
  */
 package juegotresenraya;
 
+import static java.time.Clock.system;
+
 /**
  *
  * @author jvilchez
@@ -15,6 +17,9 @@ public class JuegoTresEnRaya {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        {
+            system.out.prinln("Hola todos!") 
     }
     
 }
